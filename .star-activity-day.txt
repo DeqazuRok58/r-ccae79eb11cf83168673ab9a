@@ -1,1 +1,2 @@
 activity-day:20772 claimed anthropics/skills 1476542a17af
+activity-day:20772 done anthropics/skills 1d0b0b3ea0d3
